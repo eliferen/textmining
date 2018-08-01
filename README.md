@@ -1,0 +1,2 @@
+# textmining
+learning text mining
